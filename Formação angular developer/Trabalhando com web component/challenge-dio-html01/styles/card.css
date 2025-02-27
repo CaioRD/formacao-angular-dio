@@ -6,33 +6,3 @@
    
 }
 
-.card{
-    width: 80%;
-    -webkit-box-shadow: -1px 1px 27px 3px rgba(0,0,0,0.68);
-    -moz-box-shadow: -1px 1px 27px 3px rgba(0,0,0,0.68);
-    box-shadow: -1px 1px 27px 3px rgba(0,0,0,0.68);
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-}
-.card-left{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    padding-left: 18px;
-}
-.card-left span{
-    font-weight: 600;
-}
-.card-left h2{
-    margin-top: 16px;
-    font-size: 22px;
-}
-.card-left p {
-  color: gray;
-}
-
-img{
-    width: 350px;
-}
